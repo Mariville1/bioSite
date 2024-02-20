@@ -99,15 +99,6 @@ ul {
     margin-bottom: 20px;
 }
 
-ul {
-    list-style-type: none;
-}
-
-ul li {
-    border-bottom: 1px #6a6a6a;
-    padding: 10px 0;
-}
-
 /* Media Queries */
 @media (max-width: 768px) {
     h1 {
